@@ -1,9 +1,9 @@
 ---
 title: "Does growth reduce poverty? The mediating role of carbon emissions and income inequality"
 collection: publications
-permalink: /publication/2023-05-23-does-growth-reduce-poverty
+permalink: /publication/CLIMATEQUAL
 excerpt: 'This paper examines whether economic growth reduces poverty, focusing on the mediating effects of carbon emissions and income inequality.'
-date: 2023-05-23
+date: 2022-11-07
 venue: 'Econ Change Restruct'
 slidesurl: 'https://mural.maynoothuniversity.ie/17061/1/s10644-022-09462-9.pdf'
 paperurl: 'https://doi.org/10.1007/s10644-022-09462-9'
