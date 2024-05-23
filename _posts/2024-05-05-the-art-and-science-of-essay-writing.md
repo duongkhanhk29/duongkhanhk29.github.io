@@ -1,6 +1,6 @@
 ---
 title: 'The Art and Science of Essay Writing'
-date: 2022-11-05
+date: 2024-05-05
 permalink: /posts/the-art-and-science-of-essay-writing/
 tags:
   - Academic Writing
