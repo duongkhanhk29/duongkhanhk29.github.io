@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CLIMATEQUAL
 excerpt: 'This paper examines whether economic growth reduces poverty, focusing on the mediating effects of carbon emissions and income inequality.'
 date: 2022-11-07
-venue: 'Econ Change Restruct'
+venue: 'Economic Change and Restructuring'
 paperurl: 'https://doi.org/10.1007/s10644-022-09462-9'
 citation: 'Duong, K., Flaherty, E. (2023). "Does growth reduce poverty? The mediating role of carbon emissions and income inequality." <i>Econ Change Restruct</i>. 56, 3309–3334'
 ---
