@@ -9,6 +9,7 @@ tags:
 ---
 I highlight two key indicators of a high-quality essay: the scientific nature (reasoning and evidence) and the artistic nature (expression and structure). While the artistic aspect may be overlooked in natural sciences, it is crucial in social sciences and persuasive writing, adding significant value to the essay.
 
+
 The Art and Science of Essay Writing
 ======
 In university, you’ll hear a lot about tips for writing good essays and the criteria that should be met when writing an essay. These usually include clarity, accuracy, relevance, originality, etc. However, there may be very few places that mention the criteria for the ‘**artistic**’ aspect or the form of an essay. It may seem unimportant, but it is a good reference for a high-quality essay. In popular terms — it creates a good impression on the person grading the essay. If a person has invested in the form, they have certainly also invested in the content, because even the unimportant things they have done very well, so the important things must be better than that.
