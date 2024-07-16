@@ -2,7 +2,7 @@
 title: "Does growth reduce poverty? The mediating role of carbon emissions and income inequality"
 collection: publications
 permalink: /publication/CLIMATEQUAL
-excerpt: 'This paper examines whether economic growth reduces poverty, focusing on the mediating effects of carbon emissions and income inequality.'
+excerpt: 'Inequality is thus central not only to understanding the disproportionate impacts of climate change, but also its root causes.'
 date: 2022-11-07
 venue: 'Economic Change and Restructuring'
 paperurl: 'https://doi.org/10.1007/s10644-022-09462-9'
