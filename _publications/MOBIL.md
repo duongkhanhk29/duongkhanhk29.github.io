@@ -1,14 +1,14 @@
 ---
-title: "Is meritocracy just? New evidence from Boolean analysis and Machine learning"
+title: "What really matters for global intergenerational mobility?"
 collection: publications
-permalink: /publication/MERITJUST
-excerpt: 'While meritocracy is a beacon of justice, it ironically undervalues hard work, the very architect of fairness, in favour of talent.'
-date: 2024-05-24
-venue: 'Journal of Computational Social Science'
-paperurl: 'https://doi.org/10.1007/s42001-024-00287-2'
-citation: 'Duong, K., Flaherty, E. (2023). "Duong, K. Is meritocracy just? New evidence from Boolean analysis and Machine learning. J Comput Soc Sc (2024).'
+permalink: /publication/MOBIL
+excerpt: 'Therefore, there is a need to reassess the roles of parental dependency and gender bias in intergenerational mobility, especially when parental dependency is currently underestimated, and gender bias is overemphasized.'
+date: 2024-06-20
+venue: 'Plos one'
+paperurl: 'https://doi.org/10.1371/journal.pone.0302173'
+citation: 'Duong K (2024) What really matters for global intergenerational mobility?. PLOS ONE 19(6): e0302173.'
 ---
 
-This research explores the paradoxes of meritocracy using two distinct investigations. The first, employing Boolean analysis, uncovers an irony in meritocracy: it is perceived as fair, yet it downplays hard work (the very architect of fairness) and favours talent. It proposes three potential conditions (not necessarily simultaneously) for a logical meritocracy: difference legitimation, absence of genetic constraints on capabilities, or the use of effort as the yardstick for merit. The second investigation, utilizing Machine learning on data from the European Social Survey round 9, underscores that meritocratic equality of opportunities goes hand in hand with the belief in social privilege. This bolsters the viewpoint that belief in meritocracy is associated with social inequality. The research concludes by endorsing the development of a novel form of meritocracy.
+This study investigates the genuine impacts of education expansion, education inequality, and parental dependency on intergenerational mobility. It utilizes data from the Global Database on Intergenerational Mobility for 153 countries and cohorts born between the 1940s and 1980s. By employing a causal machine learning approach to address confounding problems, this research reveals that education expansion can promote intergenerational mobility to a certain extent. However, its effectiveness is partially diminished by education inequality and may be ineffective if parental dependency exists at a high level. Furthermore, this study also indicates that while gender inequality in intergenerational mobility still exists, its degree has been significantly reduced across generations. When compared to parental dependency, gender effects are far less important. Therefore, there is a need to reassess the roles of parental dependency and gender bias in intergenerational mobility, especially when parental dependency is currently underestimated, and gender bias is overemphasized.
 
-Please find the research materials at [this link](https://github.com/duongkhanhk29/MERITJUST), including the raw data, code, and accepted manuscript.
+Please find the research materials at [this link](https://github.com/duongkhanhk29/MOBIL), including the dataset and code.
