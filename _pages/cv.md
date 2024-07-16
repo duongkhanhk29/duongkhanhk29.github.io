@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+https://docs.google.com/viewer?url=https://github.com/duongkhanhk29/duongkhanhk29.github.io/blob/master/assets/Khanh_CV.pdf
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
