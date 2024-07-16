@@ -5,7 +5,7 @@ permalink: /posts/is-life-too-unjust/
 excerpt: 'But the truth is that life is more than just the sum of our individual experiences. It is a complex web of cause and effect, shaped by countless factors beyond our control.'
 tags:
   - Success
-  - Persuasion
+  - Justice
   - Management
 ---
 
