@@ -1,5 +1,5 @@
 ---
-title: 'The Art and Science of Essay Writing'
+title: 'The Art of Essay Writing'
 date: 2024-05-05
 permalink: /posts/the-art-and-science-of-essay-writing/
 excerpt: 'In university, while clarity, accuracy, relevance, and originality are often emphasized in essay writing, the importance of its artistic form, which enhances presentation and persuasive impact, is frequently overlooked.'
