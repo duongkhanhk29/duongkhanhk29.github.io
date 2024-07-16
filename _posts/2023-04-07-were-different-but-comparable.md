@@ -1,5 +1,5 @@
 ---
-title: 'We're Different but Comparable'
+title: 'We\'re Different but Comparable'
 date: 2023-04-07
 permalink: /posts/were-different-but-comparable/
 excerpt: 'Despite the emphasis on individual uniqueness and intrinsic worth that cannot be compared, standardized metrics like test scores and competition rankings are necessary in certain contexts to fairly assess abilities or achievements relative to others, though they should not be used in isolation to make absolute judgements or comparisons between individuals.'
