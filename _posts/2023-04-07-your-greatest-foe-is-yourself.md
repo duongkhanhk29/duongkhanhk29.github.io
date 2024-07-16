@@ -2,7 +2,7 @@
 title: 'Your Greatest Foe is Yourself'
 date: 2023-04-07
 permalink: /posts/your-greatest-foe-is-yourself/
-excerpt: 'Despite the emphasis on individual uniqueness and intrinsic worth that cannot be compared, standardized metrics like test scores and competition rankings are necessary in certain contexts to fairly assess abilities or achievements relative to others, though they should not be used in isolation to make absolute judgements or comparisons between individuals.'
+excerpt: 'Instead of comparing yourself to others, concentrate on comparing yourself to who you were yesterday, as you are the best judge of your own success given your unique understanding of yourself.'
 tags:
   - Psychology 
   - Success
