@@ -5,7 +5,7 @@ permalink: /publication/MERITJUST
 excerpt: 'This research explores meritocracy's paradoxes, revealing through Boolean analysis that it downplays hard work in favor of talent and suggesting conditions for a logical meritocracy, while machine learning on European Social Survey data links meritocratic equality of opportunities to belief in social privilege, ultimately advocating for a novel form of meritocracy.'
 date: 2024-05-24
 venue: 'Journal of Computational Social Science'
-paperurl: https://doi.org/10.1007/s42001-024-00287-2
+paperurl: 'https://doi.org/10.1007/s42001-024-00287-2'
 citation: 'Duong, K., Flaherty, E. (2023). "Does growth reduce poverty? The mediating role of carbon emissions and income inequality." <i>Econ Change Restruct</i>. 56, 3309–3334'
 ---
 
