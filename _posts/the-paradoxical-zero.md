@@ -1,18 +1,22 @@
 ---
-title: 'The Art and Science of Essay Writing'
-date: 2024-05-05
+title: 'The Paradoxical Zero'
+date: 2024-03-15
 permalink: /posts/the-paradoxical-zero/
-excerpt: 'In university, while clarity, accuracy, relevance, and originality are often emphasized in essay writing, the importance of its artistic form, which enhances presentation and persuasive impact, is frequently overlooked.'
+excerpt: 'Many of us find ourselves at the “paradoxical zero” point, constantly grappling with internal contradictions and striving to resolve them.'
 tags:
-  - Academic Writing
-  - Dialectical Materialism
-  - Writing Tips
+  - Success
+  - Independent thinking
+  - Leadership
 ---
 
-In university, you’ll hear a lot about tips for writing good essays and the criteria that should be met when writing an essay. These usually include clarity, accuracy, relevance, originality, etc. However, there may be very few places that mention the criteria for the ‘**artistic**’ aspect or the form of an essay. It may seem unimportant, but it is a good reference for a high-quality essay. In popular terms — it creates a good impression on the person grading the essay. If a person has invested in the form, they have certainly also invested in the content, because even the unimportant things they have done very well, so the important things must be better than that.
+It’s safe to say that we all ponder the same significant question in life — “_what is the key to success_”? Success is a subjective concept, varying from person to person, hence there isn’t a one-size-fits-all key. However, a common denominator might exist — **independent thinking**. This article delves deeper than the conventional understanding of independent thinking, exploring an autonomous and self-governing thought process, referred to as an independent mindset.
 
-For me, I will not set so many criteria, but I will only base on two basic indicators which are the scientific nature and the artistic nature of the essay. The scientific nature almost includes all the above criteria (clarity, accuracy, relevance, originality, etc.) — representing the reasoning ability of the essay, while the artistic nature, in my opinion, can be understood as captivating expression, balance between paragraphs, and the use of figurative language to express ideas. You may come across some sharp phrases of famous scientists such as ‘_Inequality and Unsustainable Growth: Two Sides of the Same Coin?_’ written by Andrew G. Berg & Jonathan D. Ostry; or ‘_The Tyranny of Merit: What’s Become of the Common Good?_’ by Michael J. Sandel. These two aspects can be likened to the foundation and design of a house, or the quality and packaging of a product, or the taste and aesthetics of a dish. These things, we can associate with the pair of categories ‘**content**’ and ‘**form**’ in dialectical materialism. Accordingly, the core value of an essay will lie in the content (created by the scientific nature) but the form (or artistic nature) creates a not small added value for it.
+Discussing this concept, we can identify two prevalent mindsets in society: independent and dependent. Dependent mindsets are swayed by others’ thoughts, with crucial life decisions often hinging on others’ opinions, such as parents, teachers, friends, and societal norms. On the other hand, those with independent mindsets can make significant life decisions, like pursuing education and marriage. They may seek advice from others, but the final decision stems from their own introspection. In this context, an independent mindset equates to a “mature” mindset.
 
-Perhaps in the academic environment, the artistic nature will be somewhat forgotten, especially in the fields of natural science, when the results of experiments are the top priority (or simply prioritize facts). However, in the aspect of social science, or publications that need to reach a wider audience, or simply scholarship/admission essays, then the artistic nature matters. Then, we call it by another name ‘**the art of persuasion**’ — and this will be difficult to be classified into the scientific nature (although it can be supported by scientific evidence).
+Nevertheless, the independent mindset discussed in this article is more nuanced. A dependent mindset also characterizes individuals lacking leadership and management skills, those who prefer being guided by others and lack the drive to progress. They are profoundly influenced by the mindsets of other people, organizations, religions, or societal biases. They adhere to and follow pre-established norms — so how can they succeed when everyone follows the same path? Success isn’t a universal goal, but for exceptional individuals — it’s about competition, not equality. Hence, only those with creativity and independence can carve their path to success.
+
+However, the line between dependent and independent mindsets isn’t always distinct. Many of us find ourselves at the “**paradoxical zero**” point, constantly grappling with internal contradictions and striving to resolve them. Starting from a point of zero knowledge, we gradually accumulate knowledge, but simultaneously, the conflict between theory and practice begins to surface. Personal experiences can challenge what one has learned, shaping their unique perception. The duration of this paradoxical zero phase can vary greatly.
+
+The success secret that this article targets is personal awareness — encompassing a person’s knowledge, experience, and unique experiences he/she forges when he/she transcends the “paradoxical zero” point. This newfound understanding can influence others, potentially inspiring admiration and emulation. Consequently, in his/her domain, he/she gains confidence, comprehend the steps needed for success, and no longer fear novelty as he/she once did. It’s as if he/she’s deciphered the success code.
 
 ------
