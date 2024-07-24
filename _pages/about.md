@@ -15,4 +15,4 @@ Before joining UNU-MERIT, I worked as a generative AI annotator in Ireland and w
 
 Please find my CV attached <a href="https://github.com/duongkhanhk29/duongkhanhk29.github.io/blob/master/assets/Khanh_CV.pdf" target="_blank">PDF.</a>
 
-
+<embed src="https://github.com/duongkhanhk29/duongkhanhk29.github.io/blob/master/assets/Khanh_CV.pdf" type="application/pdf" />
