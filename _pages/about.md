@@ -13,8 +13,8 @@ My work involves analyzing cross-national survey data from sources such as the W
 
 Before joining UNU-MERIT, I worked as a generative AI annotator in Ireland and was a research student at Maynooth University, where my thesis was fully funded by the Irish Research Council.
 
-Please find my CV attached [here](https://nbviewer.org/github/duongkhanhk29/duongkhanhk29.github.io/blob/master/assets/Khanh_CV.pdf).
+Please find my CV attached here.
 
-<embed src="assets/Khanh_CV.pdf" width="100%" height="500px" />
+<embed src="assets/Khanh_CV.pdf" width="100%" height="300px" />
 
 
