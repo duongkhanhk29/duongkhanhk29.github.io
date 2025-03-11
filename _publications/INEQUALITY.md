@@ -2,7 +2,7 @@
 title: "If inequality is an economic choice, what is the relationship between inequality and growth?"
 collection: publications
 permalink: /publication/INEQUALITY
-excerpt: 'Inequality is thus central not only to understanding the disproportionate impacts of climate change, but also its root causes.'
+excerpt: 'Economic growth is optimally accompanied by a modest increase in inequality, even in the absence of policy distortions.'
 date: 2025-11-03
 venue: 'Structural Change and Economic Dynamics'
 paperurl: 'https://doi.org/10.1016/j.strueco.2025.02.014'
