@@ -1,14 +1,14 @@
 ---
-title: "Does growth reduce poverty? The mediating role of carbon emissions and income inequality"
+title: "If inequality is an economic choice, what is the relationship between inequality and growth?"
 collection: publications
-permalink: /publication/CLIMATEQUAL
+permalink: /publication/INEQUALITY
 excerpt: 'Inequality is thus central not only to understanding the disproportionate impacts of climate change, but also its root causes.'
-date: 2022-11-07
-venue: 'Economic Change and Restructuring'
-paperurl: 'https://doi.org/10.1007/s10644-022-09462-9'
-citation: 'Duong, K., Flaherty, E. (2023). "Does growth reduce poverty? The mediating role of carbon emissions and income inequality." Econ Change Restruct. 56, 3309–3334'
+date: 2025-11-03
+venue: 'Structural Change and Economic Dynamics'
+paperurl: 'https://doi.org/10.1016/j.strueco.2025.02.014'
+citation: 'Duong, K. (2025). "If inequality is an economic choice, what is the relationship between inequality and growth?" Structural Change and Economic Dynamics.'
 ---
 
-As economies continue to grow in the face of global climate change, international policy is focusing on the combined pursuit of social and environmental development, or ‘sustainable development goals’. Whilst such goals are often framed from the perspective of high-income countries, low-income countries struggle to balance their carbon-intensive growth strategies with poverty alleviation, and carbon emission reduction. Combined with the prospect of economic growth driving income inequality higher, the potential for a vicious cycle to emerge in low-income countries in particular is considerable. Whilst the negative association between economic growth and poverty is well established, the effectiveness of growth-based programmes as a poverty reduction strategy in the context of climate change and inequality is less certain. We explore the prospects of balancing these development goals and their consequences using an international dataset, and generalized method of moments estimators. We find that although economic development reduces poverty, carbon emissions (from carbon-intensive growth) coupled with inequality, exacerbates poverty. Secondly, we find that in terms of poverty reduction, poor countries are negatively impacted by both carbon emissions and income inequality, while rich countries are primarily impacted by income inequality. Finally, we find the effect of emissions on poverty is stronger for countries at higher poverty levels, suggesting that international policies aimed at achieving equitable emissions reduction should consider the potential for disproportionate negative impacts on poorer countries.
+This study provides evidence that when economic development—encompassing both growth and inequality—is treated as an objective that benefits the entire economy rather than specific agents, growth and inequality can coexist and have a positive relationship. While some may be concerned that such a trade-off inevitably leads to extreme inequality that could hinder future growth, the findings indicate that this trade-off occurs within controlled bounds of inequality, as measured by a Gini index below 28. Although extending growth might suggest an increase in inequality, practical constraints and the inherent limits to growth prevent such extremes. The analysis utilises multi-objective optimisation, conceptualising both inequality and growth as policy objectives. The model identifies optimal strategies that maximise growth and minimise inequality within the observed range of GDP per capita, with deviations from these optimal choices interpreted as penalties reflecting non-economic factors. The results further support the hypothesis of a natural rate of subjective inequality.
 
-Please find the research materials at [this link](https://github.com/duongkhanhk29/CLIMATEQUAL), including the raw data, code, and presentation file.
+Please find the research materials at [this link](https://github.com/duongkhanhk29/Technology_development), including the raw data and code files.
