@@ -8,9 +8,7 @@ tags:
   - Formal Logic
   - Mathematical Economics
 ---
-# Formal Statements in Economic Articles
 
-## Introduction
 In economics research, formal mathematical statements are used to clearly define concepts, state assumptions, and prove results. This document provides an overview of the main types of formal statements used in academic economic articles, followed by examples.
 
 ## Types of Formal Statements
