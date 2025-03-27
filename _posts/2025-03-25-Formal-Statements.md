@@ -1,8 +1,8 @@
 ---
-title: 'Formal Statements in Economic Articles'
+title: "Formal Statements in Economic Articles"
 date: 2025-03-25
 permalink: /posts/formal-statements-in-economic-articles/
-excerpt: 'A detailed comparison of the different formal statements (e.g., Definitions, Axioms, Lemmas) commonly used in economic research, highlighting their purpose, role in proofs, and importance in theory.'
+excerpt: "A detailed comparison of the different formal statements (e.g., Definitions, Axioms, Lemmas) commonly used in economic research, highlighting their purpose, role in proofs, and importance in theory."
 tags:
   - Economic Theory
   - Formal Logic
@@ -17,13 +17,13 @@ In economics research, formal mathematical statements are used to clearly define
 A **definition** introduces a precise meaning for a concept. In economics, definitions are crucial because small differences in wording can lead to different theoretical implications.
 
 **Definition: Risk Aversion**  
-A utility function$u(\cdot)$exhibits risk aversion if it is concave, i.e.,$u''(x) < 0$for all$x$.
+A utility function $u(\cdot)$ exhibits risk aversion if it is concave, i.e., $u''(x) < 0$ for all $x$.
 
 ### Axiom
 An **axiom** is a fundamental assumption that is taken as given without proof. Economic models often begin with axioms that describe rational behavior.
 
 **Axiom: Independence Axiom**  
-If$A \succ B$, then for any probability$p$, a lottery that gives$A$with probability$p$and$C$otherwise is preferred to a lottery that gives$B$with probability$p$and$C$otherwise.
+If $A \succ B$, then for any probability $p$, a lottery that gives $A$ with probability $p$ and $C$ otherwise is preferred to a lottery that gives $B$ with probability $p$ and $C$ otherwise.
 
 ### Lemma
 A **lemma** is an auxiliary result used to prove a more important result, such as a theorem or proposition.
@@ -61,7 +61,7 @@ If preferences are homothetic, then income expansion paths are straight lines.
 A **claim** is a smaller result within a proof that is used to simplify the argument.
 
 **Claim**  
-The function$f(x)$is increasing for$x > 0$.
+The function $f(x)$ is increasing for $x > 0$.
 
 *Proof:* Immediate from the first derivative.
 
@@ -75,7 +75,7 @@ The equilibrium condition in Proposition 2 is analogous to the Nash equilibrium 
 An **example** illustrates a concept or result, while a **counterexample** shows a situation where a proposed statement fails.
 
 **Example**  
-Consider a firm facing a linear demand curve$P = a - bQ$. The profit-maximizing quantity follows from the first-order condition.
+Consider a firm facing a linear demand curve $P = a - bQ$. The profit-maximizing quantity follows from the first-order condition.
 
 ### Assumption
 An **assumption** is an explicit condition imposed on a model to structure its conclusions.
@@ -97,6 +97,3 @@ Firms maximize expected profit subject to a convex cost function.
 | **Claim**             | A small result within a proof. | Helps break down complex proofs. | Often context-specific and dependent on previous results. | Minor but useful for structuring arguments. |
 | **Remark**            | Provides additional insights or explanations. | Not part of a formal proof but aids understanding. | Can discuss implications of assumptions but does not depend on them. | Helps clarify results but is not central to theory. |
 | **Example**           | Illustrates a concept, result, or assumption. | Used to validate or counter claims. | May depend on assumptions but is not a formal statement. | Helpful for intuition but not essential to proofs. |
-
-
-------
