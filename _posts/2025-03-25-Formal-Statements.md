@@ -14,73 +14,73 @@ In economics research, formal mathematical statements are used to clearly define
 ## Types of Formal Statements
 
 ### Definition
-A **definition** introduces a precise meaning for a concept. In economics, definitions are crucial because small differences in wording can lead to different theoretical implications.
+A definition introduces a precise meaning for a concept. In economics, definitions are crucial because small differences in wording can lead to different theoretical implications.
 
-**Definition: Risk Aversion**  
+> **Definition: Risk Aversion**  
 A utility function $u(\cdot)$ exhibits risk aversion if it is concave, i.e., $u''(x) < 0$ for all $x$.
 
 ### Axiom
-An **axiom** is a fundamental assumption that is taken as given without proof. Economic models often begin with axioms that describe rational behavior.
+An axiom is a fundamental assumption that is taken as given without proof. Economic models often begin with axioms that describe rational behavior.
 
-**Axiom: Independence Axiom**  
+> **Axiom: Independence Axiom**  
 If $A \succ B$, then for any probability $p$, a lottery that gives $A$ with probability $p$ and $C$ otherwise is preferred to a lottery that gives $B$ with probability $p$ and $C$ otherwise.
 
 ### Lemma
-A **lemma** is an auxiliary result used to prove a more important result, such as a theorem or proposition.
+A lemma is an auxiliary result used to prove a more important result, such as a theorem or proposition.
 
-**Lemma**  
+> **Lemma**  
 If preferences are continuous and strictly convex, then the demand function is single-valued.
 
-*Proof:* See Appendix A.
+> *Proof:* See Appendix A.
 
 ### Proposition
-A **proposition** is a mathematical result that is true but not as fundamental as a theorem. Propositions often describe properties of equilibrium or optimization results.
+A proposition is a mathematical result that is true but not as fundamental as a theorem. Propositions often describe properties of equilibrium or optimization results.
 
-**Proposition**  
+> **Proposition**  
 If firms are price-takers in a perfectly competitive market, then the equilibrium price equals marginal cost.
 
-*Proof:* See Appendix B.
+> *Proof:* See Appendix B.
 
 ### Theorem
-A **theorem** is a major result that is rigorously proven using axioms, lemmas, and previously established results.
+A theorem is a major result that is rigorously proven using axioms, lemmas, and previously established results.
 
-**Theorem: First Welfare Theorem**  
+> **Theorem: First Welfare Theorem**  
 In a competitive equilibrium, the allocation of resources is Pareto efficient.
 
-*Proof:* See Mas-Colell et al. (1995), Chapter 16.
+> *Proof:* See Mas-Colell et al. (1995), Chapter 16.
 
 ### Corollary
-A **corollary** is a direct consequence of a theorem or proposition that requires little additional proof.
+A corollary is a direct consequence of a theorem or proposition that requires little additional proof.
 
-**Corollary**  
+> **Corollary**  
 If preferences are homothetic, then income expansion paths are straight lines.
 
-*Proof:* Follows directly from Theorem 2.
+> *Proof:* Follows directly from Theorem 2.
 
 ### Claim
-A **claim** is a smaller result within a proof that is used to simplify the argument.
+A claim is a smaller result within a proof that is used to simplify the argument.
 
-**Claim**  
+> **Claim**  
 The function $f(x)$ is increasing for $x > 0$.
 
-*Proof:* Immediate from the first derivative.
+> *Proof:* Immediate from the first derivative.
 
 ### Remark
-A **remark** provides additional insights or interpretations of a result.
+A remark provides additional insights or interpretations of a result.
 
-**Remark**  
+> **Remark**  
 The equilibrium condition in Proposition 2 is analogous to the Nash equilibrium concept in game theory.
 
 ### Example and Counterexample
-An **example** illustrates a concept or result, while a **counterexample** shows a situation where a proposed statement fails.
+An example illustrates a concept or result, while a **counterexample** shows a situation where a proposed statement fails.
 
-**Example**  
+> **Example**  
 Consider a firm facing a linear demand curve $P = a - bQ$. The profit-maximizing quantity follows from the first-order condition.
 
 ### Assumption
-An **assumption** is an explicit condition imposed on a model to structure its conclusions.
+An assumption is an explicit condition imposed on a model to structure its conclusions.
 
-**Assumption**  
+> **Assumption**  
 Firms maximize expected profit subject to a convex cost function.
 
 ## Comparison of Formal Statements in Economics Articles
