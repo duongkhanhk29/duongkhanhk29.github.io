@@ -9,8 +9,6 @@ tags:
   - Vietnamese Phonetics
 ---
 
-# English Pronunciation Guide for Vietnamese Speakers
-
 This guide provides **Vietnamese phonetic approximations** for **all English consonants and vowels**, including pronunciation tips and common mistakes.
 
 ---
