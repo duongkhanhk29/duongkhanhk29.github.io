@@ -13,8 +13,7 @@ This guide provides **Vietnamese phonetic approximations** for **all English con
 
 ---
 
-## 1. English Consonants and Vietnamese Approximation
-
+## 1. Consonants Sounds
 Since Vietnamese lacks some English consonants, **substitutions** are needed for pronunciation.
 
 | **English Sound** | **Example Word** | **Approximate Vietnamese Sound** | **Key Differences** |
@@ -51,7 +50,7 @@ Since Vietnamese lacks some English consonants, **substitutions** are needed for
 
 ---
 
-## 2. English Vowel Sounds and Vietnamese Approximation
+## 2. Vowel Sounds
 
 English has **more vowel sounds** than Vietnamese, so **approximate sounds** are needed.
 
