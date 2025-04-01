@@ -18,7 +18,7 @@ Since Vietnamese lacks some English consonants, **substitutions** are needed for
 
 | **English Sound** | **Example Word** | **Approximate Vietnamese Sound** | **Key Differences** |
 |-------------------|-----------------|----------------------------------|---------------------|
-| **/p/** | pet | p (pét) | English **/p/** is **stronger** than Vietnamese **p**. |
+| **/p/** | pet | p (pét) | English **/ph/** is **stronger** than Vietnamese **ph**. |
 | **/b/** | big | b (bít) | Similar, but English **/b/** is **voiced**. |
 | **/t/** | ten | t (ten) | Similar, but English **/t/** has **stronger aspiration**. |
 | **/d/** | dog | đ (đốc) | Close to **đ** but **stronger** at the tongue tip. |
@@ -32,7 +32,7 @@ Since Vietnamese lacks some English consonants, **substitutions** are needed for
 | **/z/** | zoo | d (dừ) | Vietnamese **d** in the South is close, but English **/z/** is more **buzzing**. |
 | **/ʃ/** | she | sh (si) | Like **x** in "xanh", but more **airy**. |
 | **/ʒ/** | pleasure | d (dờ) | No exact equivalent, but similar to **d** in the South. |
-| **/tʃ/** | chin | ch (chín) | Similar, but English **/tʃ/** is **stronger**. |
+| **/tʃ/** | chin | tr (trín) | Similar, but English **/tʃ/** is **stronger**. |
 | **/dʒ/** | jump | gi (giật) | Like **gi** but more **explosive**. |
 | **/m/** | man | m (mèo) | Same. |
 | **/n/** | no | n (năm) | Same. |
