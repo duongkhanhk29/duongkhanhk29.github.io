@@ -1,5 +1,5 @@
 ---
-title: "Formal Statements in Economic Articles"
+title: "Formal Statements"
 date: 2025-03-25
 permalink: /posts/formal-statements-in-economic-articles/
 excerpt: "A detailed comparison of the different formal statements (e.g., Definitions, Axioms, Lemmas) commonly used in economic research, highlighting their purpose, role in proofs, and importance in theory."
@@ -83,7 +83,7 @@ An assumption is an explicit condition imposed on a model to structure its concl
 > **Assumption**  
 Firms maximize expected profit subject to a convex cost function.
 
-## Comparison of Formal Statements in Economics Articles
+## Comparison of Formal Statements
 
 | **Formal Statement** | **Purpose** | **Role in Proofs** | **Dependence on Assumptions** | **Importance in Theory** |
 |----------------------|-------------|--------------------|-----------------------------|--------------------------|
