@@ -1,7 +1,7 @@
 ---
 title: 'I think rationally, but act emotionally'
 date: 2025-05-16
-permalink: /posts/I_think_rationally_but_act_emotionally/
+permalink: /posts/rationally-but-act-emotionally/
 excerpt: 'After quitting my PhD, I told my friends it wasn’t a rushed decision. A week later, I changed my mind and decided to return. To them, it seemed impulsive. But for me, it was a necessary emotional response to a serious mental health need. I don’t regret acting quickly—it was good for me. I value honesty with myself, even when it looks irrational to others. I act emotionally but think carefully, and I choose what feels right when the decision only affects me. This is how I live—not for approval, but for alignment with who I am.'
 tags:
   - Philosophy of life
