@@ -34,5 +34,3 @@ After working through those materials, I realized that my ideas aligned—almost
 Again, the responses were mixed. Some found the paper interesting in both theory and method, while others were skeptical of the use of non-traditional approaches, particularly questioning the data and methodology. Some also argued that my discussion of development repeated existing ideas without adding much practical value.
 
 I took this feedback seriously, revised the paper again, and resubmitted it to James K. Galbraith. He accepted it within a few days. I was surprised, especially since the paper did not go through external peer review. In his response, he wrote that "the wheel is tired, and we need to reinvent it," and encouraged me to be proud of the paper for its originality.
-
-Please find the research materials at [this link](https://github.com/duongkhanhk29/Technology_development), including the raw data and code files.
