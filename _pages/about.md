@@ -17,7 +17,7 @@ I work at both the theoretical and empirical levels.
 
 **Empirically**, I refuse to let my ideas be constrained by methods or data. My work involves analyzing cross-national survey data from sources such as the World Value Survey, the International Social Survey Programme, and the European Social Survey. My methodologies include clustering, dimension reduction, factor analysis, causal inference, random forests, social network analysis, and simulation, with proficiency in Stata and R. I enjoy modifying existing methods and using datasets in innovative ways.
 
-**Beyond academia**, I love writing. I have a novella (a short form of novel) called *E-human*, self-published on [Amazon](https://www.amazon.co.uk/dp/B0FLVCD7DN). It was written in 2018 and polished year by year; I will continue updating and expanding the story in the future. I also embed my research findings and my philosophy of life into it. I also have a collection of my own poetry in my native language, which I give as a gift to friends on special occasions.
+**Beyond academia**, I love writing. I have a novella (a short form of novel) called *The E-human*, self-published on [Amazon](https://www.amazon.co.uk/dp/B0FLVCD7DN). It was written in 2018 and polished year by year; I will continue updating and expanding the story in the future. I also embed my research findings and my philosophy of life into it. I also have a collection of my own poetry in my native language, which I give as a gift to friends on special occasions.
 
 I do research to answer my life questions, and I write to be free from place and time. To better understand myself and the world.
 
