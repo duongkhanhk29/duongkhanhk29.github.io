@@ -23,6 +23,11 @@ I do research to answer my life questions, and I write to be free from place and
 
 Please find my CV attached.
 
-<iframe src="assets/Khanh_CV.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<div style="height: 800px; overflow-y: scroll; -webkit-overflow-scrolling: touch;">
+    <object data="assets/Khanh_CV.pdf" type="application/pdf" width="100%" height="1000px">
+        <p>Your browser does not support PDFs. <a href="assets/Khanh_CV.pdf">Download CV</a></p>
+    </object>
+</div>
+
 
 
