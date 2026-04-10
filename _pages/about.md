@@ -7,13 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and writer specializing in social and economic inequalities, leveraging machine learning to address socio-economic challenges within **Computational Social Science**. I focus on persistent inequalities and equality of opportunity in the digital age.
+I am a researcher and writer focused on **inequality**.
 
-My work involves analyzing cross-national survey data from sources such as the World Value Survey, International Social Survey Programme, and European Social Survey. My methodologies include clustering, dimension reduction, factor analysis, causal inference, random forests, social network analysis, and simulation, with proficiency in Stata and R.
+Inequality can simply mean difference—as in mathematics—but it also carries value judgments when we quantify and evaluate things. When applied to social problems, inequality becomes a question of fairness.
 
-Before joining UNU-MERIT, I worked as a generative AI annotator in Ireland and was a research student at Maynooth University, where my thesis was fully funded by the Irish Research Council.
+I work at both the theoretical and empirical levels.
 
-Please find my CV attached [here](https://nbviewer.org/github/duongkhanhk29/duongkhanhk29.github.io/blob/master/assets/Khanh_CV.pdf).
+**Theoretically**, I am deeply engaged with philosophy—especially liberalism versus egalitarianism—and I challenge common assumptions. I argue that inequality is not always bad (we often prefer fair inequality over unfair equality), that we cannot make children entirely independent of their parents (the value of family matters), and that fairness is a tool for achieving welfare, not a goal to be traded off against welfare. From this foundation, I have expanded into several social science fields: normology (the study of social norms), happiness research (especially the Easterlin paradox), innovation studies (questioning what inclusive technology means), genetic behavior (do genes limit our futures? determinism), and anthropology (how hunter-gatherer societies can be equal and happy despite material poverty).
+
+**Empirically**, I refuse to let my ideas be constrained by methods or data. My work involves analyzing cross-national survey data from sources such as the World Value Survey, the International Social Survey Programme, and the European Social Survey. My methodologies include clustering, dimension reduction, factor analysis, causal inference, random forests, social network analysis, and simulation, with proficiency in Stata and R. I enjoy modifying existing methods and using datasets in innovative ways.
+
+**Beyond academia**, I love writing. I have a novella (a short form of novel) called *E-human*, self-published on [Amazon](https://www.amazon.co.uk/dp/B0FLVCD7DN). It was written in 2018 and polished year by year; I will continue updating and expanding the story in the future. I also embed my research findings and my philosophy of life into it. I also have a collection of my own poetry in my native language, which I give as a gift to friends on special occasions.
+
+I do research to answer my life questions, and I write to be free from place and time. To better understand myself and the world.
+
+Please find my CV attached.
 
 <iframe src="assets/Khanh_CV.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
