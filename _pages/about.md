@@ -29,6 +29,4 @@ Please find my CV attached.
     </object>
 </div>
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/yDCKUG2HXa9GNc" width="510" height="420"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/understanding-norm-strength-and-fairness-in-meritocratic-societies-across-europe/287280618" title="understanding-norm-strength-and-fairness-in-meritocratic-societies-across-europe" target="_blank">understanding-norm-strength-and-fairness-in-meritocratic-societies-across-europe</a></strong>from <strong><a href="https://www.slideshare.net/KhanhDuong70" target="_blank">Khanh Duong</a></strong></div>
-
 
