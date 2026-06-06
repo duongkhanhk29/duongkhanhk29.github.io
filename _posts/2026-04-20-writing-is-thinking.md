@@ -10,8 +10,6 @@ tags:
   - Writing tips
 ---
 
-> Duong, K. (2026). Measuring norm strength: The specificity of fairness under meritocracy in Europe. *Acta Psychologica, 266*, 106859. https://doi.org/10.1016/j.actpsy.2026.106859
-
 Let me be honest: most academic papers are boring. They hide good ideas behind bad writing. The reader sees a wall of text, a thousand citations, and twenty tables of numbers—and gives up. This is not necessary. Writing is not just reporting your research. Writing is a level of critical thinking. These are my personal ways of article writing, and I am sharing them for your reference. Let me walk you through how I think about each part, from the very first sentence to the last reference.
 
 I always start my introduction with a hook that grabs the reader's attention, but the hook is not just a clever phrase—it is a clear statement of where the academic conversation currently stands. The reader needs to know immediately what the current debate is, what the gap in that debate is, what my novelty brings to the table, and what my contribution will be to the field. I do not hide these things or save them for a dramatic reveal. I state them clearly and early because my job is to help the reader understand why this paper matters, not to make them work to figure it out. Then, at the end of my introduction, I add a short outline of the paper. This outline is like a promise: here is where we are going, here is the path, and here is why I am taking you in this order. A good introduction is a map that shows the destination and the route. A bad introduction is a fog where the reader gets lost before the journey even begins.
