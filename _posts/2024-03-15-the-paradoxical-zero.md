@@ -1,8 +1,8 @@
 ---
-title: 'How to Do a PhD Like This: A Reflection'
+title: "How to Do a PhD Like This: A Reflection"
 date: 2026-06-06
 permalink: /posts/how-to-do-a-phd-like-this/
-excerpt: 'A PhD in less than two years—not by working harder, but by building something new instead of adding a brick to an old wall.'
+excerpt: "A PhD in less than two years—not by working harder, but by building something new instead of adding a brick to an old wall."
 tags:
   - PhD
   - Independent thinking
@@ -28,17 +28,17 @@ I did not find a gap in the literature. I found a misdirection — or at least, 
 
 The existing literature on intergenerational mobility asks: "How big is the correlation between parents and children?" The implicit goal for many is to make it smaller. I began to wonder whether this was the only question worth asking. The correlation is not one thing. It is many things: genetic inheritance, financial resources, social privilege, and something else — something that comes from the daily, intimate life of families.
 
-I tentatively called this something else *Familial Relationship Goods*. Shared meals. Bedtime stories. Authoritative guidance. The practices that make a family a family. I do not claim this concept is original. Others have written about family intimacy. But I tried to give it an empirical grounding it had not received before.
+I came up with a new concept called *Familial Relationship Goods*. Shared meals. Bedtime stories. Authoritative guidance. The practices that make a family a family. I do not claim this concept is original. Others have written about family intimacy. But I tried to give it an empirical grounding it had not received before.
 
 I operationalised the transmission effect of Familial Relationship Goods as: *the environmental spillover of parents' exposure to randomness on the child's gene–environment system, operating through the direct, co-resident family relationship.*
 
-This sentence took me months to get right. It is dense. It is not perfect. But it is mine. I did not borrow it from anyone. I tried to build it from the ground up. I may have failed in ways I do not yet see. That is for others to judge.
+This sentence took me two years to think, and two months to write it down. It is dense. It is not perfect. But it is mine. I did not borrow it from anyone. I tried to build it from the ground up. I may have failed in ways I do not yet see. That is for others to judge.
 
 ## On Estimating
 
 I did not let the literature determine my conclusions. But neither did I ignore it. I read the evidence. I tried to synthesise it. I made a judgment. I estimated based on my own reading and reasoning.
 
-The literature suggests the causal effect of parental education on child education is about 0.1 to 0.15. There is disagreement about what this means. Some say it is genetic. Some say it is environmental. Some say it is bias. I looked at the twin studies. I looked at the IV studies. I looked at the meta-analyses showing convergence. I looked at the critiques of gene-environment interplay. I made a judgment: the most reasonable estimate of the permissible transmission channel is about 0.15.
+The literature suggests the causal effect of parental education on child education is about 0.1 to 0.15. There is disagreement about what this means. Some say it is genetic. Some say it is environmental. Some say it is bias. I looked at the twin studies. I looked at the IV studies. I looked at the meta-analyses showing convergence. I looked at the critiques of gene-environment interplay. I built a framework about the gene-environment system and randomness, and the intergenerational transmission from that system. Accordingly, I made a correction to the current estimates: the most reasonable estimate of the permissible transmission channel is about 0.15.
 
 I may be wrong. Future research may show 0.05 or 0.25. That would not surprise me. I am not claiming certainty. I am claiming that this is the best judgment I can make given the evidence I have. And the normative framework — that some non-zero transmission is permissible as the price of family intimacy — does not depend on the exact number. It only requires that some transmission exists.
 
@@ -46,9 +46,11 @@ I may be wrong. Future research may show 0.05 or 0.25. That would not surprise m
 
 I finished in less than two years. This was not because I worked harder than everyone else. I worked about as hard as a normal PhD student. But I worked differently, and I had help.
 
-I started writing early. I wrote badly at first. Then I revised. I tried to keep the structure clear. I tried to keep the argument tight. I cut things that did not serve the central claim. I also had supportive advisors who gave me space to work in my own way. Not everyone has this privilege. I am grateful for it.
+I started writing early. I wrote badly at first. Then I revised. I tried to keep the structure clear. I tried to keep the argument tight. I cut things that did not serve the central claim.
 
-The result is a shorter thesis than most. This is partly a limitation. There are things I did not have time to do. There are literatures I did not engage deeply. There are nuances I cannot speak to. I tried to acknowledge these limitations honestly. A longer thesis might have been better in some ways. But a shorter thesis meant I finished. And finishing is better than perfecting.
+But this is only one side of the story. It also comes from my supervisors, who are very productive, active, and supportive. Not everyone has this privilege. I am grateful for it.
+
+There are things I did not have time to do. There are literatures I did not engage deeply. There are nuances I cannot speak to. I tried to acknowledge these limitations honestly.
 
 ## On Success
 
@@ -63,16 +65,6 @@ If success means finishing in a reasonable time without burning out, I have succ
 If success means learning to trust my own judgment while remaining open to criticism, I have succeeded enough for now.
 
 That is all I can claim.
-
-## For Anyone Who Wants To Do Something Like This
-
-I do not have a formula. I only have my experience.
-
-- Read at the broadest level. Accept that you will miss things.
-- Try to build something of your own. Expect to be wrong sometimes.
-- Finish when you can. Do not wait for perfection.
-- Be honest about your limitations. Do not pretend. Do not apologise too much.
-- Offer your best judgment. Let others judge it.
 
 That is how I did this PhD. It worked for me. It may not work for you. But if you are the kind of person who wants to build something new rather than add a brick to an old wall, perhaps something here will be useful.
 
