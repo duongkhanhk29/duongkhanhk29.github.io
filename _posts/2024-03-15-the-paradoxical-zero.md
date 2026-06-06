@@ -10,7 +10,7 @@ tags:
   - Methodology
 ---
 
-I started my PhD in September 2024. I am defending in June 2026. Less than two years. I do not say this to boast. I say it because it taught me something about what a PhD can be when you stop following all the usual advice and start asking different questions.
+I started my PhD in September 2024. I am defending in September 2026. Exactly two years. I do not say this to boast. I say it because it taught me something about what a PhD can be when you stop following all the usual advice and start asking different questions.
 
 Most PhD advice is not wrong. It works for many people. But it assumes you want to make a small contribution within an existing framework. I wanted something else. I wanted to build a new framework. This is what I learned along the way.
 
