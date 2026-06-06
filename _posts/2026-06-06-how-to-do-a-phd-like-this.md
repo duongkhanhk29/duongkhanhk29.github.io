@@ -2,7 +2,7 @@
 title: "How to Do a PhD Like This: A Reflection"
 date: 2026-06-06
 permalink: /posts/how-to-do-a-phd-like-this/
-excerpt: "A PhD in less than two years—not by working harder, but by building something new instead of adding a brick to an old wall."
+excerpt: "A PhD in two years—not by working harder, but by building something new instead of adding a brick to an old wall."
 tags:
   - PhD
   - Independent thinking
