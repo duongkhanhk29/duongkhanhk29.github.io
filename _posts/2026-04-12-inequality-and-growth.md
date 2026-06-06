@@ -1,29 +1,40 @@
 ---
 title: "If Inequality Is an Economic Choice: What Is the Relationship Between Inequality and Growth?"
 date: 2026-04-12
-permalink: /posts/inequality-and-growth/
-excerpt: "Writing is not a chore after research—it is the final test of thinking. A practical guide to writing academic papers that are read, understood, and remembered."
+permalink: /posts/inequality-choice-growth/
+excerpt: "Inequality is not inherently negative—it emerges from specialization and cooperation. Development is the objective; inequality is a tool."
 tags:
-  - Academic writing
-  - Methodology
-  - Research
-  - Writing tips
+  - Inequality
+  - Growth
+  - Development
+  - Economic choice
+  - Political economy
 ---
 
-> Duong, K. (2026). Measuring norm strength: The specificity of fairness under meritocracy in Europe. *Acta Psychologica, 266*, 106859. https://doi.org/10.1016/j.actpsy.2026.106859
+> Duong, K. (2025). "If inequality is an economic choice, what is the relationship between inequality and growth?" *Structural Change and Economic Dynamics*. https://doi.org/10.1016/j.strueco.2025.02.014
 
-Let me be honest: most academic papers are boring. They hide good ideas behind bad writing. The reader sees a wall of text, a thousand citations, and twenty tables of numbers—and gives up. This is n[...]
+In a development studies class at Maynooth, Ireland, I was introduced to between- and within-country inequalities—a topic that genuinely interested me. I came across a research report titled "Inequality is a Choice," produced by a well-known research institute and a prominent economist, and it did not feel quite right to me. That was when I began to reflect more seriously.
 
-I always start my introduction with a hook that grabs the reader's attention, but the hook is not just a clever phrase—it is a clear statement of where the academic conversation currently stands. Th[...]
+I started with gender inequality—men and women are different, but they should have equal value. I then turned to John Rawls' difference principle and broader value theory, asking why inequality becomes unjust. From there, I looked back to ancient human societies, when people lived by hunting and gathering—poor in material terms, yet relatively equal and, arguably, content. Marshall Sahlins' idea of the "original affluent society" captures this well.
 
-Now let me talk about the literature review, because this is where many writers go wrong. I never make a list of papers. Saying "Smith said X in 2015, Jones said Y in 2018, and Lee said Z in 2020" is [...]
+This led me to a simple question: why did humans move away from equality and contentment toward inequality and dissatisfaction? What did we gain? My answer is development—humanity maturing to take control of its fate in the face of natural risks. If we ask whether modern societies are better than ancient ones, there is no clear answer; everything has both gains and losses. However, development allows us to mature and expands our set of choices. A wealthy person can choose to live a modest life, even if it feels uncomfortable, but for a poor person to become wealthy, the transition is far more difficult.
 
-Next, let me explain my approach to data and methods, because this is where some people simply give up and copy what someone else did. I always build a clear framework that operationalizes my big pict[...]
+I was particularly struck by the idea that surplus production created social differentiation, and that the social contract assigns each individual a distinct role and value within the community. These roles are given comparable values in order to distribute outcomes. From this perspective, inequality emerges from specialization and economic cooperation. It is not inherently negative. In this sense, humans "choose" inequality, but it can also be understood as an inevitable outcome of development.
 
-Then we arrive at results and discussion, and this is where my way is perhaps the most different from what you usually see in journals. I am highly selective about what I report. I do not report every[...]
+I recognize that many countries remain highly unequal, and that political and economic choices shape these outcomes—this can be seen as the upper bound of inequality. What I focus on instead is the lower bound. We cannot reduce inequality to zero, nor should we aim to. Rather, inequality should exist at an optimal level that supports development. Development is the primary objective; inequality is a tool. We should not frame this as a trade-off between equality and "true" development.
 
-My conclusion is not a copy of my abstract, and this mistake drives me crazy when I see it. The abstract is a preview. The conclusion is a reflection. I always include limitations—what my study coul[...]
+These reflections helped me develop the core idea of my paper. The first versions were written in 2022 as a final assignment. I later expanded it into a review essay without empirical data and submitted it to a political journal. The paper received two opposing reviews: one appreciated the novelty of my thinking, while the other considered it of little value.
 
-Finally, let me talk about references, because this is where many papers reveal their quality instantly. I always check the quality of my references. I rarely cite anything other than a peer-reviewed [...]
+I then tried several theory-oriented journals without success. After that, I looked for co-author opportunities and began exploring how to support my ideas with empirical data. Most people I approached liked the idea, but none had a clear data solution. They were mainly empiricists, which I understood, and given my limited experience, I was advised to focus on empirical work rather than theory, which is often expected from more senior researchers. Still, I did not give up.
 
-As for the outline of the paper itself, I have a practical recommendation. If you are a fresher, I recommend sticking to the traditional layout: introduction, literature review, data and method, resul[...]
+While working at UNU-MERIT, I was exposed to many perspectives on inequality and development, which strengthened my thinking. Eventually, I found a possible solution in operational research—the study of decisions and optimal choices—which connects directly to the question: is inequality a choice?
+
+I submitted this new version to a computational economics journal, but it was desk rejected. The editors were more interested in technical contributions than in the theoretical framework and suggested submitting to an applied economics journal. I then resubmitted to *Structural Change and Economic Dynamics*. The decision arrived on 31 December 2024, New Year's Eve. I expected another rejection, but instead received a very encouraging response from the editor, James K. Galbraith, who has studied inequality for over 30 years and expressed strong interest in my ideas.
+
+However, he found my literature review problematic and suggested several books and datasets I should engage with. This was a major revision, and notably, there was no external peer review at that stage. I sent him a message of thanks that same evening.
+
+After working through those materials, I realized that my ideas aligned—almost by coincidence—with existing debates, and that my findings could point to an important research gap regarding inevitable inequality. I revised the paper extensively, to the point where it became almost entirely new. I also shared the revised version with other researchers and fellows for feedback before resubmitting.
+
+Again, the responses were mixed. Some found the paper interesting in both theory and method, while others were skeptical of the use of non-traditional approaches, particularly questioning the data and methodology. Some also argued that my discussion of development repeated existing ideas without adding much practical value.
+
+I took this feedback seriously, revised the paper again, and resubmitted it to James K. Galbraith. He accepted it within a few days. I was surprised, especially since the paper did not go through external peer review. In his response, he wrote that "the wheel is tired, and we need to reinvent it," and encouraged me to be proud of the paper for its originality.
