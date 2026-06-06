@@ -11,7 +11,7 @@ tags:
   - Norm specificity
 ---
 
-Duong, K. (2026). Measuring norm strength: The specificity of fairness under meritocracy in Europe. *Acta Psychologica, 266*, 106859. https://doi.org/10.1016/j.actpsy.2026.106859
+> Duong, K. (2026). Measuring norm strength: The specificity of fairness under meritocracy in Europe. *Acta Psychologica, 266*, 106859. https://doi.org/10.1016/j.actpsy.2026.106859
 
 I'm trained as a junior economist and sociologist, but I don't really like putting myself in just those boxes. Knowledge doesn't have clear borders—at least not in the way disciplines suggest. In the survey data I work with, I often deal with questions about opinions and attitudes. These are useful for studying normative concepts, but they come with obvious biases. For example, people with right-wing views often underestimate the level of inequality. That kind of distortion is easy to miss in economics and sociology. To deal with it, I bring in ideas from psychology, especially the notion of a cognitive map.
 
