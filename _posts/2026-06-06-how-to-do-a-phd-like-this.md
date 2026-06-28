@@ -30,7 +30,7 @@ The existing literature on intergenerational mobility asks: "How big is the corr
 
 I came up with a new concept called *Familial Relationship Goods*. Shared meals. Bedtime stories. Authoritative guidance. The practices that make a family a family. I do not claim this concept is original. Others have written about family intimacy. But I tried to give it an empirical grounding it had not received before.
 
-I operationalised the transmission effect of Familial Relationship Goods as: *the environmental spillover of parents' exposure to randomness on the child's gene–environment system, operating through the direct, co-resident family relationship.*
+I operationalised the transmission effect of Familial Relationship Goods as: *the environmental spillover of parents' cognitive exposure to randomness on the child's gene–environment system, operating through the direct, co-resident family relationship.*
 
 This sentence took me two years to think, and two months to write it down. It is dense. It is not perfect. But it is mine. I did not borrow it from anyone. I tried to build it from the ground up. I may have failed in ways I do not yet see. That is for others to judge.
 
